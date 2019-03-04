@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#85be67</color>
+    <color name="colorPrimary">#60CA22</color>
     <color name="colorPrimaryDark">#29aa1b</color>
     <color name="colorAccent">#ffc107</color>
     <color name="colorRed">#ff3d00</color>
+    <color name="color_oval">#91478607</color>
+    <color name="color_font_logo">#FCFDFA</color>
 </resources>
